@@ -136,7 +136,7 @@ Der Generalversammlung sind folgende Aufgaben vorbehalten:
 8. Der/Die Obmann/Obfrau kann Beschlüsse des Vorstandes auch im Umlaufweg einholen, soweit jedes Vorstandsmitglied mit einer Beschlussfassung im Umlaufweg einverstanden ist. Für derartige Beschlüsse gelten die im Abs. 6 angeführten Mehrheitsverhältnisse.
 9. Außer durch den Tod und Ablauf der Funktionsperiode (Abs. 3) erlischt die Funktion eines Vorstandsmitglieds durch Enthebung (Abs. 10) oder Rücktritt (Abs. 11).
 10. Die Generalversammlung kann jederzeit den gesamten Vorstand oder einzelne seiner Mitglieder entheben. Die Enthebung tritt mit Bestellung des neuen Vorstands bzw Vorstandsmitglieds in Kraft.
-11. Die Vorstandsmitglieder können jederzeit schriftlich ihren Rücktritt erklären. Die Rücktrittserklärung ist an den Vorstand, im Falle des Rücktritts des gesamten Vorstands an die Generalversammlung zu richten. Der Rücktritt wird erst mit Wahl bzw Kooptierung (Abs. 2) eines Nachfolgers wirksam.
+11. Die Vorstandsmitglieder können jederzeit schriftlich ihren Rücktritt erklären. Die Rücktrittserklärung ist an den Vorstand, im Falle des Rücktritts des gesamten Vorstands an die Generalversammlung zu richten. Der Rücktritt wird sofort wirksam.
 
 ## § 12 Aufgaben des Vorstands
 Dem Vorstand obliegt die Leitung des Vereins. Er ist das „Leitungsorgan“ im Sinne des Vereinsgesetzes 2002. Ihm kommen alle Aufgaben zu, die nicht durch die Statuten einem anderen Vereinsorgan zugewiesen sind. In seinen Wirkungsbereich fallen insbesondere folgende Angelegenheiten:
